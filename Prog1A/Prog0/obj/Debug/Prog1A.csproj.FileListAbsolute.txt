@@ -1,0 +1,7 @@
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\bin\Debug\Prog0.exe
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\bin\Debug\Prog0.pdb
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\obj\Debug\Prog1A.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\obj\Debug\Prog1A.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\obj\Debug\Prog0.exe
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog1A\Prog0\obj\Debug\Prog0.pdb
