@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog4.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\bin\Debug\Prog1.exe.config
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog4.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog4.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog4.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\micha\Desktop\CIS_Portfolio\CIS_Classes\CIS_200_Visual_C#_Deitel\Programs\Prog4Retry\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
